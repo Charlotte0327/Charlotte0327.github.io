@@ -1,6 +1,6 @@
 body {
     background: rgb(125, 198, 205);
-    color: rgb(45, 45, 45);
+    color: rgb(43, 73, 112);
     padding: 10px;
     font-family: Arial, sans-serif;
 }
@@ -26,6 +26,7 @@ h1 {
     color: white;
     flex: 1;
     margin: 0;
+    font-family:'Times New Roman', Times, serif;
 }
 
 #nav-ul {
@@ -58,7 +59,7 @@ main {
 }
 
 .sidebar-img {
-    width: 200px;
+    width: 270px;
 }
 
 .content {
@@ -68,13 +69,14 @@ main {
 
 /* interests section styles */
 #interests {
-    border: 4px silver ridge;
+    border: 4px rgb(73, 141, 241) ridge;
     padding: 8px;
     margin-top: 20px;
 }
 
 h2, h3 {
     margin: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 /* Portfolio styles */
@@ -92,15 +94,16 @@ h2, h3 {
     padding: 10px;
     border-radius: 30px;
     margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
   }
   
   #portfolio li:hover {
-    background: #eee;
+    background: #69693d;
   }
   
   #portfolio a {
     text-decoration: none;
-    color: #454545;
+    color: #608f97;
   }
 
   /* responsive web design */
