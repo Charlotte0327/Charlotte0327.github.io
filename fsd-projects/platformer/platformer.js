@@ -43,7 +43,7 @@ $(function () {
 
     // TODO 3 - Create Collectables
     createCollectable("heart", 340, 170, 0.5, 0.7);
-    createCollectable("database", 1030, 170, 0.5, 0.7);
+    createCollectable("rainbow", 1030, 170, 0.5, 0.7);
     createCollectable("soccerball", 530, 170, 0.5, 0.7);
     
     // TODO 4 - Create Cannons
