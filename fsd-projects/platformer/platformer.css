@@ -3,10 +3,11 @@ body {
 }
 
 canvas {
-  background-color: rgb(226, 40, 7);
+  background-color: rgb(209, 88, 73);
   margin: 20px;
 }
 
 img {
   display: none;
+  background-image: "";
 }
