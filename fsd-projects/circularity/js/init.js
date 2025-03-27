@@ -14,17 +14,20 @@ var init = function (window) {
         
         window.opspark.game = {};
         var game = window.opspark.game;
-        
+    
         ///////////////////
         // PROGRAM SETUP //
         ///////////////////
         
         // TODO 1 : Declare and initialize our variables
-
+    var cirlce;
+    var circles = [];
 
 
         // TODO 2 : Create a function that draws a circle 
+    function drawCircle () {
         
+    }
 
 
         // TODO 3 : Call the drawCircle() function
